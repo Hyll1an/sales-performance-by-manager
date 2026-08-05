@@ -13,12 +13,12 @@ It enables users to monitor key business metrics, analyze monthly revenue trends
 
 ## ✨ Features
 
-- 📊 Interactive KPIs for revenue, total orders, and average ticket.
-- 👤 Manager-based filtering for individual performance analysis.
-- 📅 Monthly revenue trend analysis.
-- 🗺️ Geographic visualization of store locations.
-- 🏪 Detailed store performance table.
-- 📈 Interactive and user-friendly dashboard navigation.
+- Interactive KPIs for revenue, total orders, and average ticket.
+- Manager-based filtering for individual performance analysis.
+- Monthly revenue trend analysis.
+- Geographic visualization of store locations.
+- Detailed store performance table.
+- Interactive and user-friendly dashboard navigation.
 
 ## 🛠️ Technologies
 
